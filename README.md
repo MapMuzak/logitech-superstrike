@@ -18,34 +18,54 @@ gpw
 
 run1\
 <img width="844" height="430" alt="gpw-result1" src="https://github.com/user-attachments/assets/dd6ee175-e7bb-4957-81d1-5a4cd7c3912c" />\
+https://drive.google.com/file/d/1yuZaz1IbhcI_bn_OC1vQCaNHoy9e-yLE/view?usp=drive_link \
+https://drive.google.com/file/d/1GTBwfV0bCGvFI276ti2X6Tvreolhltxq/view?usp=drive_link
 
 run2\
 <img width="844" height="430" alt="gpw-result2" src="https://github.com/user-attachments/assets/6c50ce07-9467-4102-b039-2a58b4af8e94" />\
+https://drive.google.com/file/d/1W8UZRlQ6Nfs5qz9eRRQlQzvQ0FZo_zBc/view?usp=drive_link \
+https://drive.google.com/file/d/1bV_AuyEyEnrFKej_PVqG86Dyf7fScLNp/view?usp=drive_link
 
 run3\
 <img width="844" height="430" alt="gpw-result3" src="https://github.com/user-attachments/assets/e315addf-124b-4b38-9bc5-147f66cb4f07" />\
+https://drive.google.com/file/d/13E4lK9s4d6GVtI30c_CbJqcqQNMSJU51/view?usp=drive_link \
+https://drive.google.com/file/d/12w0VFNo2egM47AsNLg9Gn36jzihnuWZq/view?usp=drive_link
 
 run4\
 <img width="844" height="430" alt="gpw-result4" src="https://github.com/user-attachments/assets/a928c069-d3ff-4c8d-851b-9f5a43697fa8" />\
+https://drive.google.com/file/d/1ztkYOs6gpPWlIJspZy6CijyqygBzfxuw/view?usp=drive_link \
+https://drive.google.com/file/d/1QD1CEiROu_pgeD3XkXEXejJSRdxpfPk4/view?usp=drive_link
 
 run5\
 <img width="844" height="430" alt="gpw-result5" src="https://github.com/user-attachments/assets/a1e27348-a168-4645-9ab8-5d61b60cbad0" />\
+https://drive.google.com/file/d/1DVNjP_LBOocu2nyjAWJWQEuX7vheqgnb/view?usp=drive_link \
+https://drive.google.com/file/d/1Icu0WV1oA68HsZ2xfyKV29DMUBi-qHG-/view?usp=drive_link
 
 superstrike
 
 run1\
 <img width="844" height="430" alt="superstrike-result1" src="https://github.com/user-attachments/assets/36405a91-c5d8-49f4-8e95-6fd62a43a953" />\
+https://drive.google.com/file/d/1WO6u5866NqqFyPm1ZT5QqLe3ufwy8so9/view?usp=drive_link \
+https://drive.google.com/file/d/12rQg25BnDUfR-SNxkdc1cx37ZBcwXPyK/view?usp=drive_link
 
 run2\
 <img width="844" height="430" alt="superstrike-result2" src="https://github.com/user-attachments/assets/e2e0a043-35f2-4630-b2f1-07647b472892" />\
+https://drive.google.com/file/d/1mtfzRldT6tE7ku_48kkvouFSfU9sRNvt/view?usp=drive_link \
+https://drive.google.com/file/d/1cyeKisPvgdIObCtVAm424UayGLTCzx2i/view?usp=drive_link
 
 run3\
 <img width="844" height="430" alt="superstrike-result3" src="https://github.com/user-attachments/assets/7376efbd-c7ca-4545-958b-bf859f3d6ed0" />\
+https://drive.google.com/file/d/1jOsotRysk4XDnX6SqVJALypz0LDEFooq/view?usp=drive_link \
+https://drive.google.com/file/d/1s3Yu9OeeXmcjFHMglm4uxHLabpjlaV3P/view?usp=drive_link
 
 run4\
 <img width="844" height="430" alt="superstrike-result4" src="https://github.com/user-attachments/assets/a1bf1f13-b72d-45ee-b394-2f942d656410" />\
+https://drive.google.com/file/d/1mbprKxFOAeCKYBRn7LUF935LYYewuZU2/view?usp=drive_link \
+https://drive.google.com/file/d/1swxh9uLtCgxMC2wAUdMwbBcX0jKU1zGS/view?usp=drive_link
 
 run5\
 <img width="844" height="430" alt="superstrike-result5" src="https://github.com/user-attachments/assets/f76fb456-44e8-496b-b916-abb401acef1d" />\
+https://drive.google.com/file/d/1jslV_p4Qehtsnr1FvmD2-pSbOrtzAHWa/view?usp=drive_link \
+https://drive.google.com/file/d/1_QKW9CsQYE6StVTCRFY2gkqoaBXxuEcL/view?usp=drive_link
 
 verdict: pretty much same cps but superstrike is less tiring or at the very least on par with HEAVILY USED gpw
