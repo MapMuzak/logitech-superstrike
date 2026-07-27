@@ -14,4 +14,38 @@ kinda good reasoning here (new hits technology vs heavily used omron switches)
 
 5 60 second runs with no dcprevent on both mice
 
+gpw
+
+run1\
+<img width="844" height="430" alt="gpw-result1" src="https://github.com/user-attachments/assets/dd6ee175-e7bb-4957-81d1-5a4cd7c3912c" />\
+
+run2\
+<img width="844" height="430" alt="gpw-result2" src="https://github.com/user-attachments/assets/6c50ce07-9467-4102-b039-2a58b4af8e94" />\
+
+run3\
+<img width="844" height="430" alt="gpw-result3" src="https://github.com/user-attachments/assets/e315addf-124b-4b38-9bc5-147f66cb4f07" />\
+
+run4\
+<img width="844" height="430" alt="gpw-result4" src="https://github.com/user-attachments/assets/a928c069-d3ff-4c8d-851b-9f5a43697fa8" />\
+
+run5\
+<img width="844" height="430" alt="gpw-result5" src="https://github.com/user-attachments/assets/a1e27348-a168-4645-9ab8-5d61b60cbad0" />\
+
+superstrike
+
+run1\
+<img width="844" height="430" alt="superstrike-result1" src="https://github.com/user-attachments/assets/36405a91-c5d8-49f4-8e95-6fd62a43a953" />\
+
+run2\
+<img width="844" height="430" alt="superstrike-result2" src="https://github.com/user-attachments/assets/e2e0a043-35f2-4630-b2f1-07647b472892" />\
+
+run3\
+<img width="844" height="430" alt="superstrike-result3" src="https://github.com/user-attachments/assets/7376efbd-c7ca-4545-958b-bf859f3d6ed0" />\
+
+run4\
+<img width="844" height="430" alt="superstrike-result4" src="https://github.com/user-attachments/assets/a1bf1f13-b72d-45ee-b394-2f942d656410" />\
+
+run5\
+<img width="844" height="430" alt="superstrike-result5" src="https://github.com/user-attachments/assets/f76fb456-44e8-496b-b916-abb401acef1d" />\
+
 verdict: pretty much same cps but superstrike is less tiring or at the very least on par with HEAVILY USED gpw
