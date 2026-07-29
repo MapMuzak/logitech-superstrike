@@ -4,6 +4,7 @@ superstrike might be the true successor to the g pro wireless (got to test the L
 
 kinda good reasoning here (new hits technology vs heavily used omron switches)
 <img width="1920" height="1080" alt="bestjittermouseoftodayvsbestjittermouseinhistory" src="https://github.com/user-attachments/assets/eebf6252-bced-492e-82c4-671009783a5b" />
+<img width="1791" height="1010" alt="Screenshot 2026-03-15 134735" src="https://github.com/user-attachments/assets/62d0fe0e-f0d4-4911-8083-67b6ebd65889" />
 <img width="400" height="455" alt="Screenshot 2026-07-28 002657" src="https://github.com/user-attachments/assets/3ce1b678-b483-4541-bb4c-a28d498a4aff" />
 <img width="2559" height="1439" alt="Screenshot 134925" src="https://github.com/user-attachments/assets/348132b6-8e09-4415-9399-d1054e62a65d" />
 <img width="2559" height="1439" alt="Screenshot 134932" src="https://github.com/user-attachments/assets/a9e724f3-1800-4db5-90e0-6e4f7a4433d9" />
